@@ -6,7 +6,7 @@
 
 <p align="center"><b>We turn "forbidden" into "possible".</b></p>
 
-Development house specialized in **web scraping**, **reverse engineering** & **automation** — with full-stack and infrastructure engineering to take it to production.
+Software house specialized in **web scraping**, **reverse engineering** & **automation** — with full-stack and infrastructure engineering to take it to production.
 
 
 ### What We Do
