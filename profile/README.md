@@ -34,7 +34,7 @@ Software house specialized in **web scraping**, **reverse engineering** & **auto
 
 ### Connect
 
-🌐 [status403.com](https://status403.com/?utm_source=github&utm_medium=referral&utm_campaign=readme-website) · 📩 [Book a Free Call](https://status403.com/?utm_source=github&utm_medium=referral&utm_campaign=readme-booking)
+🌐 [status403.com](https://status403.com/?utm_source=github&utm_medium=referral&utm_campaign=readme-website) · 📖 [Technical Writing](https://status403.com/blog?utm_source=github&utm_medium=referral&utm_campaign=readme-technical) · 📩 [Book a Free Call](https://status403.com/?utm_source=github&utm_medium=referral&utm_campaign=readme-booking)
 
 ---
 
