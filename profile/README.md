@@ -14,7 +14,7 @@ status403 is a software house taking products **from idea to production** - arch
 
 🔮 **Web3 Automation** - Chain monitoring, low-latency transaction workflows, real-time on-chain data and the infrastructure that keeps them running.
 
-👨‍💻 **Reverse Engineering** - Source code & protocol analysis, complex obfuscation handling, anti-bot solution development, undocumented API reconstruction.
+👨‍💻 **Reverse Engineering** - Source code & protocol analysis, complex obfuscation handling, anti-bot analysis, undocumented API reconstruction.
 
 ⚙️ **Backend** - Scalable, fault-tolerant server-side systems handling thousands of req/s. Database & caching optimization, auth, cloud-native deployments (AWS, GCP, self-hosted).
 
@@ -26,7 +26,7 @@ status403 is a software house taking products **from idea to production** - arch
 
 1. **Discovery Call** - Free consultation to understand your needs and technical requirements.
 2. **Technical Analysis** - Target system analysis, protection mechanism identification, custom approach design.
-3. **Implementation** - Robust, scalable solutions with error handling, rate limiting respect, and monitoring.
+3. **Implementation** - Robust, scalable solutions with error handling, rate-limit handling, and monitoring.
 4. **Delivery & Support** - Full documentation, deployment assistance, and ongoing support.
 
 ---
